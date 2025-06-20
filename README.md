@@ -1,4 +1,4 @@
-# eriko8a322
+# Takamura Eriko
 
 ## 👋 About Me
 
