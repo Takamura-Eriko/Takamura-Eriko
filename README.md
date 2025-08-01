@@ -27,7 +27,7 @@
   - Alembicによるマイグレーションとデータベース設計
   - Postmanを用いたAPI検証
   - フロントエンドのデザイン調整とデータ表示処理
-- GitHub リポジトリ: [🔗 https://github.com/ms-engineer-bc24-11/Sec9-10-HealthyBloom.git]
+- GitHub リポジトリ: [🔗 https://github.com/ms-engineer-bc24-11/Sec9-10-HealthyBloom]
 
 ## 💡 My Favorite Tech
 
